@@ -1,10 +1,10 @@
 # Ahmed Samir — Software Engineer (Backend .NET Developer)
 
 <p align="center">
-  <img src="https://i.redd.it/vzkhe4s8dlab1.gif" width="90" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.png" width="90" />
+  <img src="https://www.pngwing.com/en/search?q=net+Core" width="90" />
+  <img src="https://en.namu.wiki/w/C%23" width="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Angular.png" width="80" />
+  <img src="https://material.angularjs.org/" width="80" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ I am **Ahmed Samir**, a passionate **Software Engineer** specializing in **Backe
 
 ### 🔹 **Tools & DevOps**
 - Git & GitHub
-- Deployment (Web + Mobile Backend)
+- Deployment 
 
 ---
 
