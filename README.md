@@ -1,10 +1,10 @@
 # Ahmed Samir — Software Engineer (Backend .NET Developer)
 
 <p align="center">
-  <img src="https://www.pngwing.com/en/search?q=net+Core" width="90" />
-  <img src="https://en.namu.wiki/w/C%23" width="90" />
+  <img src="https://api.civo.com/k3s-marketplace/aspnet.png" width="90" />
+  <img src="https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials.png" width="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" />
-  <img src="https://material.angularjs.org/" width="80" />
+  <img src="https://static.infragistics.com/xplatform/images/browsers/angular.png" width="80" />
 </p>
 
 ---
@@ -54,20 +54,8 @@ Built and deployed the complete backend for the mobile app, including APIs, auth
 
 ---
 
-## 📸 Screenshots / Media
-_Add your project images or architecture diagrams here:_
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Project+Screenshot+1" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/600x300?text=Architecture+Diagram" width="70%" />
-</p>
-
----
-
 ## 📬 Contact
+- **Linkedin:** https://www.linkedin.com/in/ahmed-samir-89975837b/
 - **Email:** ahmedsamirr912@gmail.com
 - **GitHub:** https://github.com/AhmedSamirDotNet
 
