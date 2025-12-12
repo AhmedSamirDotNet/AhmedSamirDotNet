@@ -1,7 +1,7 @@
 # Ahmed Samir — Software Engineer (Backend .NET Developer)
 
 <p align="center">
-  <img src="https://www.reddit.com/r/Blockbench/comments/14tgal5/c_icon/" width="90" />
+  <img src="https://i.redd.it/vzkhe4s8dlab1.gif" width="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.png" width="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Angular.png" width="80" />
