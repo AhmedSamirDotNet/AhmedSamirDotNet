@@ -1,10 +1,12 @@
 # Ahmed Samir — Software Engineer (Backend .NET Developer)
 
 <p align="center">
-  <img src="https://api.civo.com/k3s-marketplace/aspnet.png" width="90" />
+  <img src="https://dotbadges.com/wp-content/uploads/2023/01/ASP-Net-Core-Sticker.webp" width="90" />
   <img src="https://assets.codeguru.com/uploads/2021/08/C-Sharp-Tutorials.png" width="90" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="80" />
   <img src="https://static.infragistics.com/xplatform/images/browsers/angular.png" width="80" />
+  <img src="https://webdevmonk.com/main/html.png" width="80" />
+  <img src"https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png" width="80" />
 </p>
 
 ---
