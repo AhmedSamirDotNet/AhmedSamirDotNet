@@ -11,13 +11,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am **Ahmed Samir**, a passionate **Software Engineer** specializing in **Backend .NET Development**. I focus on building scalable, secure, and clean backend systems following modern architectural principles.
 
 ---
 
-## 🧠 Tech Stack & Skills
-### 🔹 **Backend Development**
+##  Tech Stack & Skills
+###  **Backend Development**
 - C#
 - ASP.NET Framework & MVC
 - ASP.NET Razor Pages
@@ -26,22 +26,22 @@ I am **Ahmed Samir**, a passionate **Software Engineer** specializing in **Backe
 - Authentication & Authorization
 - SignalR (Real-time communication)
 
-### 🔹 **Database & Data Tools**
+###  **Database & Data Tools**
 - Microsoft SQL Server (SSMS)
 - Stored Procedures, Joins, Optimization
 
-### 🔹 **Frontend Basics**
+###  **Frontend Basics**
 - HTML5, CSS3, JavaScript
 - Learning **Angular** (in progress)
 
-### 🔹 **Tools & DevOps**
+###  **Tools & DevOps**
 - Git & GitHub
 - Deployment 
 
 ---
 
-## 🏆 Projects
-### 🔥 **Spark Website — Billboard Booking System**
+##  Projects
+###  **Spark Website — Billboard Booking System**
 A freelance project where I designed and implemented the backend booking logic, authentication, and admin tools.
 
 ### 📱 **GOGO Mobile App (Backend Developer & Deployment)**
@@ -49,18 +49,18 @@ Built and deployed the complete backend for the mobile app, including APIs, auth
 
 ---
 
-## 🎓 Student Activities
+##  Student Activities
 - **Vice Head Backend — GDG**
 - **IEEE Backend Team Member**
 - **ECPC Competitive Programming Participant**
 
 ---
 
-## 📬 Contact
+##  Contact
 - **Linkedin:** https://www.linkedin.com/in/ahmed-samir-89975837b/
 - **Email:** ahmedsamirr912@gmail.com
 - **GitHub:** https://github.com/AhmedSamirDotNet
 
 ---
 
-> ✨ _"Code with clarity, build with purpose."_
+>  _"Code with clarity, build with purpose."_
